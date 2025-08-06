@@ -1,8 +1,7 @@
 Rhythmbox Tempo control
 =======================
-This is a Rhythmbox 3.x plugin that allows the playback speed to be increased
-or decreased. It is similar in spirit to rbpitch, but works on Rhythmbox 3. It
-is not as feature-complete as rbpitch.
+This is a Rhythmbox 3.x plugin that allows the playback speed, pitch and / or tempo to be increased
+or decreased.
 
 Installation
 ------------
